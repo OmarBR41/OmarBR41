@@ -2,9 +2,13 @@
 
 # :space_invader: Hi, there!
 
-My name is Omar. I'm a fullstack developer based in Monterrey, N.L.
+My name is Omar. I'm a self-taught fullstack developer. I primarily work with the MERN stack, but I love programming in general, so I'm always looking forward on learning new tools and technologies.
 
-I love videogames, music and coffee. :coffee:
+I like videogames and all kinds of art. :sparkles:
+
+I drink a lot of coffee. :coffee:
+
+Pet friendly. I have four cats. :cat:
 
 ## :desktop_computer: Technologies I like to work with
 
