@@ -29,6 +29,18 @@ I also love videogames and art. :sparkles:
 ![](https://camo.githubusercontent.com/333efdf3d52583cf7c536e5364439a833bb89c25afffbb42550c2bf0ce260827/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f2b436f646526636f6c6f723d303037414343266c6f676f3d56697375616c2b53747564696f2b436f6465266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![](https://camo.githubusercontent.com/a0e17e3c41abff3e7abb85b7df8b9fa42794c7df939eb6ed01f970c8677ad7a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4669676d6126636f6c6f723d463234453145266c6f676f3d4669676d61266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
+## :star: Pinned Repos
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=auth-passport-jwt&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=ip-address-tracker&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=countries-api&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=launch-countdown&theme=dark)
+
+## :chart_with_upwards_trend: GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=OmarBR41&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBR41&layout=compact&theme=dark)
+
 ## :speech_balloon: Want to talk?
 
 :email: omar.benavides.rmz@gmail.com
