@@ -2,11 +2,7 @@
 
 # :space_invader: Hi, there!
 
-My name is Omar. I'm a self-taught fullstack developer. I primarily work with the MERN stack, but I love programming in general, so I'm always looking forward on learning new tools and technologies.
-
-I drink a lot of coffee. :coffee:
-
-I also love videogames and art. :sparkles:
+My name is Omar and I'm a fullstack developer. I currently work with React (with Next.js on top, if the website needs SEO) in the front end, styled with CSS3, SCSS, Bootstrap or Tailwind CSS, with Node.js for the backend, running an Express.js web server and connecting to a MongoDB database.
 
 ## :desktop_computer: Technologies & Tools
 
@@ -34,8 +30,9 @@ I also love videogames and art. :sparkles:
 ![](https://github-readme-stats.vercel.app/api?username=OmarBR41&show_icons=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBR41&layout=compact&theme=dark)
 
-## :speech_balloon: Want to talk?
+## :speech_balloon: Let's talk!
 
+:phone: +52-(868)-225-2392
 :email: omar.benavides.rmz@gmail.com
 
 <img src="https://raw.githubusercontent.com/OmarBR41/OmarBR41/main/tumblr_oz3l83lbxW1vghtqoo1_1280.gif" width="100%">
