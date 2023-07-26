@@ -20,11 +20,91 @@ And that's just some of the stack and flow that I like to work with. I've also b
 
 ## :star: Featured Projects
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=omarbr-website&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=auth-passport-jwt&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=ip-address-tracker&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=countries-api&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=launch-countdown&theme=dark)
+<div>
+  <a href="https://github.com/OmarBR41/omarbr-website">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=omarbr-website&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=omarbr-website&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=omarbr-website&show_icons=true" />
+    </picture>
+  </a>
+  
+  <a href="https://github.com/OmarBR41/auth-passport-jwt">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=auth-passport-jwt&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=auth-passport-jwt&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=auth-passport-jwt&show_icons=true" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/OmarBR41/ip-address-tracker">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=ip-address-tracker&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=ip-address-tracker&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=ip-address-tracker&show_icons=true" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/OmarBR41/countries-api">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=countries-api&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=countries-api&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=countries-api&show_icons=true" />
+    </picture>
+  </a>
+  
+  <a href="https://github.com/OmarBR41/launch-countdown">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=launch-countdown&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=launch-countdown&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=launch-countdown&show_icons=true" />
+    </picture>
+  </a>
+  
+  <a href="https://github.com/OmarBR41/graphql-blog">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=graphql-blog&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=graphql-blog&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=graphql-blog&show_icons=true" />
+    </picture>
+  </a>
+</div>
 
 ## :desktop_computer: Technologies & Tools
 
