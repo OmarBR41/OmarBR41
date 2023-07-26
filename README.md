@@ -2,7 +2,29 @@
 
 # :space_invader: Hi, there!
 
-My name is Omar and I'm a fullstack developer. I currently work with React (with Next.js on top, if the website needs SEO) in the front end, styled with CSS3, SCSS, Bootstrap or Tailwind CSS, with Node.js for the backend, running an Express.js web server and connecting to a MongoDB database.
+My name is Omar and I'm a Software Engineer.
+
+I specialize on the frontend with React/Next.js with TypeScript, usually styling my projects with CSS3 or MUI; but I really enjoy exploring different styling libraries and options, like SCSS, Bootstrap, Tailwind CSS, Emotion, and styled-components.
+
+I'm also experienced on backend tools. I used to work with Python & Flask/Django, but these past few years I've been running my servers mostly with Node.js & Express.js.
+
+For storing and managing data I've used PostgreSQL, MySQL & MongoDB, usually with GraphQL to expose the data through the API backend, and with Redis to cache the data.
+
+I like to use Docker Compose to easily set up and manage my projects and microservices.
+
+My preferred hosting option for static websites is Netlify, but for more complex projects I like to set up an Ubuntu server on a Digital Ocean Droplet, managing it accordingly to the project. Which usually consists on securing the firewall, cloning the Git repo, installing common dependencies, set up Nginx, Apache, or Traefik, and set the environmental variables. I also use to set up the database in the same droplet, or use an external database.
+
+If the project requires a public domain it should also have HTTPS to improve its security and user experience; for that, Let's Encrypt is the best way generate a free SSL certificate.
+
+And that's just some of the stack and flow that I like to work with. I've also been implementing more tools for testing, automation and development, like Jest, Cypress, Storybook, Jenkins, Prettier, Eslint, Git, Docker, and some more.
+
+## :star: Featured Projects
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=omarbr-website&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=auth-passport-jwt&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=ip-address-tracker&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=countries-api&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=launch-countdown&theme=dark)
 
 ## :desktop_computer: Technologies & Tools
 
@@ -35,25 +57,3 @@ My name is Omar and I'm a fullstack developer. I currently work with React (with
 :email: omar.benavides.rmz@gmail.com
 
 <img src="https://raw.githubusercontent.com/OmarBR41/OmarBR41/main/tumblr_oz3l83lbxW1vghtqoo1_1280.gif" width="100%">
-
-<!--
-Badges from: https://github.com/progfay/shields-with-icon
-
-GHStats
-
-## :chart_with_upwards_trend: GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=OmarBR41&show_icons=true&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBR41&layout=compact&theme=dark)
-
-
-## :star: Pinned Repos
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=auth-passport-jwt&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=ip-address-tracker&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=countries-api&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=OmarBR41&repo=launch-countdown&theme=dark)
-
-
--->
